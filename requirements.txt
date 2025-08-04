@@ -1,0 +1,9 @@
+streamlit>=1.29.0
+langchain-google-genai>=0.0.8
+google-generativeai>=0.3.0
+gTTS>=2.3.2
+openai-whisper>=20230918
+soundfile>=0.12.1
+pydub>=0.25.1
+python-dotenv>=1.0.0
+faiss-cpu>=1.7.4
